@@ -1,0 +1,12 @@
+.bg-body-tertiary {
+  background-color: #fca311 !important;
+}
+
+.contenido_principal {
+  background: radial-gradient(circle, rgb(229, 229, 229) 0%, rgb(255, 255, 255) 100%) !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=style.css.map */
