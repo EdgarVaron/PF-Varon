@@ -11,6 +11,12 @@
           "iframe[allow]"
         ]
       }
+    ],
+    "axe/structure": [
+      "default",
+      {
+        "list": "off"
+      }
     ]
   },
   "browserslist": [
@@ -19,3 +25,4 @@
     "not and_ff <= 109"
   ]
 }
+
